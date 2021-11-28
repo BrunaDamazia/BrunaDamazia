@@ -9,18 +9,15 @@ Pronouns: ela/dela
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDamazia&theme=github_dark&show_icons=true)">
 </div> -->
 
-<div style="display: inline_block" align="center">
-  <img heigh="30" width="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img heigh="30" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img heigh="30" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img heigh="30" width="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img heigh="30" width="40" alt="vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-</div>
-
-<hr>
-
-<div>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="">
+<div style="display: inline-block" align="left">
+  <img heigh="30" width="30" alt="html" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img heigh="30" width="30" alt="css" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img heigh="30" width="30" alt="javascript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img heigh="30" width="30" alt="bootstrap" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img heigh="30" width="30" alt="vue.js" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+ 
+ <a href="" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href=""></a>
+ <a href = ""><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/BrunaDamazia/BrunaDamazia/blob/output/github-contribution-grid-snake.svg)
