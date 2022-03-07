@@ -6,7 +6,7 @@ Pronouns: ela/dela
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=BrunaDamazia&theme=github_dark&show_icons=true)">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDamazia&theme=github_dark&show_icons=true)">
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDamazia&theme=github_dark&show_icons=true)"> -->
 </div>
 
 <div style="display: inline-block">
