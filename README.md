@@ -4,10 +4,10 @@
 Estudando javascript <br>
 Pronouns: ela/dela
 
-<div>
+<!-- <div>
  <img src="https://github-readme-stats.vercel.app/api?username=BrunaDamazia&theme=github_dark&show_icons=true)">
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDamazia&theme=github_dark&show_icons=true)"> -->
-</div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDamazia&theme=github_dark&show_icons=true)">
+</div> -->
 
 <div style="display: inline-block">
   <img heigh="30" width="30" alt="html" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
