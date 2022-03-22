@@ -2,7 +2,7 @@
 
 
 Estudando javascript <br>
-Pronouns: ela/dela
+Pronouns: she/her
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=BrunaDamazia&theme=github_dark&show_icons=true)">
