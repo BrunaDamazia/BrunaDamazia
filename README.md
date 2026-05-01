@@ -5,7 +5,7 @@
 
 ### Front-End Developer & UI/UX Designer
 
-* 🌍 Resido em Fortaleza - CE
+* 🌍 Resido em Ceará - Brasil
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas
 * 💼 Atualmente trabalhando como voluntária em UI/UX Design e Front-end na organização GID.
 * 🖥️ Veja meu portfólio em [Bruna Damazia](http://brunadamazia.vercel.app)
