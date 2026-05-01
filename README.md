@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Baloo+Thambi+2&weight=500&size=32&pause=5000&color=F79778&width=435&lines=Ol%C3%A1!+Sou+a++Bruna+Damazia+%3A%29)](https://git.io/typing-svg)
 ------------------------------------
 
-<img src="https://i.pinimg.com/originals/09/31/b0/0931b03c53fc349fb093eb4365a4ebd3.gif" width="480" align="right">
+<img src="https://i.pinimg.com/originals/09/31/b0/0931b03c53fc349fb093eb4365a4ebd3.gif" width="400" align="right">
 
 ### Front-End Developer & UI/UX Designer
 
